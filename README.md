@@ -1,4 +1,4 @@
-[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat)](#) [![#](https://img.shields.io/badge/file_types-pdf-red.svg?style=flat)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat)](#)
+[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/file_types-pdf-red.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat-square)](#)
 
 ## 📚 Biblioteca Digital
 
