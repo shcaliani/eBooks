@@ -2,10 +2,14 @@
 
 ## 📚 Biblioteca Digital
 
+### eBooks
+
 - **[Estamos ao Vivo](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)**: Falando em público no mundo presencial e digital
 - **[Governança Ágil](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Dicas sobre governança ágil e sistêmica
 - **[Marketing Digital](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
 - **[Entendendo NPS](eBook%20-%20ENTENDENDO%20NPS.pdf)**: O NPS mais que uma pesquisa
 
 ### Tecnologia
-- **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)**: Comandos básicos do Git - Controle de versão
+
+- **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)**: Comandos básicos de Git - Controle de versão
+- **[Comandos Shell](https://gist.github.com/shcaliani/9bbe2b118c785a72030b3b3a30f341dd)**: Comandos básicos de Shell Script
