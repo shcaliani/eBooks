@@ -1,4 +1,4 @@
-[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/file_types-pdf/md-red.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat-square)](#) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Caliani-forestgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiohcaliani/)](https://www.linkedin.com/in/sergiohcaliani/) 
+[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/file_types-pdf/md/sh-red.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat-square)](#) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Caliani-forestgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiohcaliani/)](https://www.linkedin.com/in/sergiohcaliani/) 
 
 ## 📚 Biblioteca Digital
 
@@ -9,7 +9,7 @@
 - **[Marketing Digital](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
 - **[Entendendo NPS](eBook%20-%20ENTENDENDO%20NPS.pdf)**: O NPS mais que uma pesquisa
 
-### Tecnologia
+### Tecnology
 
 - **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)**: Comandos básicos de Git - Controle de versão
 - **[Comandos Shell](https://gist.github.com/shcaliani/9bbe2b118c785a72030b3b3a30f341dd)**: Comandos básicos de Shell Script
