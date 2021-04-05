@@ -1,4 +1,4 @@
-[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/file_types-pdf e md-red.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat-square)](#) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Caliani-forestgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiohcaliani/)](https://www.linkedin.com/in/sergiohcaliani/) 
+[![#](https://img.shields.io/badge/licence-CC--BY--4.0-blue.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/file_types-pdf/md-red.svg?style=flat-square)](#) [![#](https://img.shields.io/badge/study-free-yellow.svg?style=flat-square)](#) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Caliani-forestgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiohcaliani/)](https://www.linkedin.com/in/sergiohcaliani/) 
 
 ## 📚 Biblioteca Digital
 
