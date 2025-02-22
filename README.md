@@ -4,7 +4,7 @@
 
 ### eBooks
 
-- **[Compilado Estoico]([eBook%20-%20ESTAMOS%20AO%20VIVO.pdf](https://github.com/shcaliani/eBooks/blob/3c4447f0ccc782fa406651ce8e911b790437bcba/eBook%20-%20COMPILADO%20ESTOICO.pdf))**: Pontos de vista baseados no Estoicismo
+- **[Compilado Estoico](eBook%20-%20COMPILADO%20ESTOICO.pdf)**: Pontos de vista baseados no Estoicismo
 - **[Estamos ao Vivo](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)**: Falando em público no mundo presencial e digital
 - **[Governança Ágil](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Dicas sobre governança ágil e sistêmica
 - **[Marketing Digital](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
