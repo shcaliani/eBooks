@@ -9,7 +9,7 @@
 - **[Governança Ágil](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Road Map sobre Governança Ágil e Sistêmica
 - **[Marketing Digital](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
 - **[Entendendo NPS________](eBook%20-%20ENTENDENDO%20NPS.pdf)**: NPS, mais que uma pesquisa
-- **[MApa da LIDERANÇA_____](eBook%20-%20ENTENDENDO%20NPS.pdf)**: Rota de desenvolvimento para lideres
+- **[Rotas para LÍDERES____](Rota%20para%20LIDERES.pdf)**: Rotas de desenvolvimento para lideres
 
 ### Tecnology
 
