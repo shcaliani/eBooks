@@ -4,12 +4,12 @@
 
 ### eBooks
 
-- **[Compilado Estoico](eBook%20-%20Compilado%20ESTOICO.pdf)**: Pontos de Vista baseados no Estoicismo
-- **[Estamos ao Vivo](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)**: Falando para o público no mundo presencial e digital
-- **[Governança Ágil](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Road Map sobre Governança Ágil e Sistêmica
-- **[Marketing Digital](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
-- **[Entendendo NPS________](eBook%20-%20ENTENDENDO%20NPS.pdf)**: NPS, mais que uma pesquisa
-- **[Rotas para LÍDERES____](Rota%20para%20LIDERES.pdf)**: Rotas de desenvolvimento para lideres
+- **[Compilado Estoico_](eBook%20-%20Compilado%20ESTOICO.pdf)**: Pontos de Vista baseados no Estoicismo
+- **[Estamos ao Vivo_](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)**: Falando para o público no mundo presencial e digital
+- **[Governança Ágil_](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Road Map sobre Governança Ágil e Sistêmica
+- **[Marketing Digital_](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
+- **[Entendendo NPS_](eBook%20-%20ENTENDENDO%20NPS.pdf)**: NPS, mais que uma pesquisa
+- **[Rotas para Líderes_](Rota%20para%20LIDERES.pdf)**: Rotas de desenvolvimento para lideres
 
 ### Tecnology
 
