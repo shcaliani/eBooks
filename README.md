@@ -11,7 +11,7 @@
 - **[Entendendo NPS_](eBook%20-%20ENTENDENDO%20NPS.pdf)**: NPS, mais que uma pesquisa
 - **[Rotas para Líderes_](Rota%20para%20LIDERES.pdf)**: Rotas de desenvolvimento para lideres
 
-### Tecnology
+### Technology
 
 - **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)**: Comandos básicos de Git - Controle de versão
 - **[Comandos Shell](https://gist.github.com/shcaliani/9bbe2b118c785a72030b3b3a30f341dd)**: Comandos básicos de Shell Script
