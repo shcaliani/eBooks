@@ -6,7 +6,7 @@
 
 - **[Compilado Estoico_](eBook%20-%20Compilado%20ESTOICO.pdf)**: Pontos de Vista baseados no Estoicismo
 - **[Estamos ao Vivo_](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)**: Falando para o público no mundo presencial e digital
-- **[OKR e Governança na era da IA_](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: O que muda com a chegada da IA
+- **[OKR e Governança na era da IA_](eBook%20-%20OKR_Governanca_Corporativa_na_Era_da_IA.pdf)**: O que muda com a chegada da IA
 - **[Governança Ágil_](eBook%20-%20GOVERNANC%CC%A7A%20A%CC%81GIL.pdf)**: Road Map sobre Governança Ágil e Sistêmica
 - **[Marketing Digital_](eBook%20-%20MKT%20DIGITAL%20CONCEITOS.pdf)**: Drops sobre marketing digital
 - **[Entendendo NPS_](eBook%20-%20ENTENDENDO%20NPS.pdf)**: NPS, mais que uma pesquisa
