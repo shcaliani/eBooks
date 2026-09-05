@@ -19,3 +19,4 @@
 
 - **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)**: Comandos básicos de Git - Controle de versão
 - **[Comandos Shell](https://gist.github.com/shcaliani/9bbe2b118c785a72030b3b3a30f341dd)**: Comandos básicos de Shell Script
+eBook - OKR_Governanca_Corporativa_na_Era_da_IA.pdf
