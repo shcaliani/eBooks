@@ -42,7 +42,7 @@ eBook - OKR_Governanca_Corporativa_na_Era_da_IA.pdf
 
 ## 📖 eBooks
 
-| 📚 Material | 📝 Descrição |
+| 📚 Material |  Descrição |
 | :--- | :--- |
 | **[Compilado Estoico_](eBook%20-%20Compilado%20ESTOICO.pdf)** | Pontos de Vista baseados no Estoicismo |
 | **[Estamos ao Vivo_](eBook%20-%20ESTAMOS%20AO%20VIVO.pdf)** | Falando para o público no mundo presencial e digital |
@@ -53,13 +53,13 @@ eBook - OKR_Governanca_Corporativa_na_Era_da_IA.pdf
 
 ## 🎯 Roadmap
 
-| 🎯 Material | 📝 Descrição |
+| ⭐️ Material |  Descrição |
 | :--- | :--- |
 | **[Rotas para Líderes_](Rota%20para%20LIDERES.pdf)** | Rotas de desenvolvimento para líderes |
 
 ## 💻 Technology
 
-| 💻 Material | 📝 Descrição |
+| 🧑‍💻 Material |  Descrição |
 | :--- | :--- |
 | **[Comandos Git](https://gist.github.com/shcaliani/d87f8017f1d9631bd88970ba4d4d5c26)** | Comandos básicos de Git - Controle de versão |
 | **[Comandos Shell](https://gist.github.com/shcaliani/9bbe2b118c785a72030b3b3a30f341dd)** | Comandos básicos de Shell Script |
